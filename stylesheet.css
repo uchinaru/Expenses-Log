@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Lobster&family=Rubik:ital,wght@1,500&family=PT+Serif:ital@1&display=swap');
+
+header{
+	width: auto;
+	padding: 55px;
+	margin: -8px -8px 0px -8px;
+	background-color: #DEB887;
+	/*border: 10px solid;
+	border-color: blue;*/
+}
+footer{
+    width: auto;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #DEB887;
+    color: #ffffff;
+    box-sizing: border-box;
+    margin: 12px -8px -8px -8px;
+   /* border: 10px solid;
+	border-color: darkred;*/
+}
+a:link{
+	text-decoration: none;
+}
+.img-logo-central{
+	width: 100px;
+	left: 48px;
+	top: -50px;
+	position: absolute;
+}
+#title-logo{
+	font-family: 'Rubik', sans-serif;
+	font-size: 70px;
+	text-align: center;
+	position: absolute;
+	left: 100px;
+  	top: -35px;
+  	color: whitesmoke;
+	min-width: 580px;
+}
+#container-sections-firts{
+	width: auto;
+	display: flex;
+	margin: 0px -8px -12px -8px;
+  /*border: 10px solid;
+	border-color: orangered;*/
+}
+.container-sections-second{
+	width: auto;
+	height: 500px;
+	margin: 10px -9px 0px -8px;
+	background-color: NavajoWhite;
+	font-family: 'Rubik', sans-serif;
+}
+.container-child{
+	width: auto;
+	margin: auto;
+	display: flex;
+}
+.container-child-content{
+	text-align: center;
+	margin: 0px 5px 0px 5px;
+	padding: 0px 10px 0px 10px;
+	box-shadow: 2px 2px 2px 1px rgb(0, 0, 0, 0.5);
+	background-color: white;
+}
+#section-lefth{
+	width: 300px;
+	height: auto;
+	min-width: 300px;
+  /*border: 10px solid;
+	border-color: skyblue;*/
+}
+#section-rigth-grid{
+	width: auto;
+	height: auto;
+	padding: 0px 0px 0px 15px;
+	text-align: center;
+	font-family: 'PT Serif', serif;
+	color: #606060;
+  /*border: 10px solid;
+	border-color: deepskyblue;*/	
+}
+#section-rigth-grid h1{
+	font-family: 'Rubik', sans-serif;
+}
+.section--float-mn{
+	height: 310px;
+	margin-bottom: 15px;
+	box-shadow: rgb(0, 0, 0,0.2) 2px 2px 2px 1px;
+}
+.section--float-md{
+	height: 368px;
+	margin-bottom: 15px;
+	box-shadow: rgb(0, 0, 0,0.2) 2px 2px 2px 1px;
+}
+.chamada-foruser{
+	font-family: 'Itim', cursive;
+	font-size: 25px;
+	margin-bottom: -3px;
+	text-align: center;
+	color: #606060;
+}
+.chamada-explicativa{
+	font-family: 'PT Serif', serif;
+	font-size: 13px;
+	text-align: center;
+	color: #606060;
+}
+.img-section-float{
+	margin: auto;
+	display: block;
+	width: 95%;
+	border-radius: 3px;
+}
+.adjuste--buttons{
+	margin: 10px 0px 0px 20px;
+}
+.adjuste--buttons-saiba-mais{
+	margin: 10px 0px 0px 100px;
+}
+.link--button-mn{
+	font-family: serif,sans-serif;
+	font-size: 12pt;
+	color: white;
+	margin: 0px 5px 0px 0px;
+	padding: 6px;
+	border-radius: 3px;
+	background:	#FF4500;
+	box-shadow: rgb(0, 0, 0, 0.5) 2px 2px 2px;
+}
+.link--button-md{
+	font-family: serif,sans-serif;
+	font-size: 12pt;
+	color: white;
+	margin: auto;
+	padding: 6px;
+	border-radius: 4px;
+	background:	#FF4500;
+	box-shadow: rgb(0, 0, 0, 0.5) 2px 2px 2px;
+}
+.container-one{
+	position: relative;
+}
